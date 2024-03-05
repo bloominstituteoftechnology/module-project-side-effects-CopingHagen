@@ -7,7 +7,7 @@
 import React, { useState } from 'react';
 // Import the Posts (plural!) and SearchBar components, since they are used inside App component
 import SearchBar from '../SearchBar/SearchBar'
-import Posts from '../Posts/Post'
+import Posts from '../Posts/Posts'
 // Import the dummyData
 import data from '../../data/dummy-data'
 
